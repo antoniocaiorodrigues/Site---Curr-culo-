@@ -1,0 +1,14 @@
+header{
+    background-color: gray;
+    text-align: center;
+    padding: 15px;
+}
+section{
+    margin: 25px;
+    border: solid;
+}
+footer{
+    background-color: gray;
+    text-align: center;
+    color: white;
+}
